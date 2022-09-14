@@ -1,0 +1,9 @@
+{
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.detectIndentation": true,
+	"editor.insertSpaces": false,
+	"editor.defaultFormatter": "octref.vetur"
+}
